@@ -1,3 +1,5 @@
+USE codeup_test_db;
+
 DROP TABLE if EXISTS albums;
 CREATE TABLE albums (
     id int UNSIGNED NOT NULL AUTO_INCREMENT,
